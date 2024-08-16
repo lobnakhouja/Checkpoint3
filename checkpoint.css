@@ -1,0 +1,191 @@
+
+
+.b1{
+    background-color: #ded2c8;
+    color:black;
+    border: none;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.b2{
+    background-color:#9BB0C1 ;
+    color:white ;
+    border-color: black;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+}
+.b3{
+    background-color: #637A9F;
+    color:white ;
+    border-color: black;
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+
+}
+header{
+    background-color: #ded2c8;
+    height: 150px;
+}
+search{
+    width: 70px;
+    height: 200;
+    border-color: black;
+}
+#txt1{
+    color: #8EACCD;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    font-size: 600;
+}
+#im2{
+    height: 300px;
+    width: 40%;
+    float:  right;
+    margin-right: 5%;
+    margin-top: 5%;
+
+   
+}
+#im1{
+    height: 550px;
+    width: 100%;
+    
+}
+#im{
+    height: 100px;
+    
+}
+main{
+    background-color:#E1F7F5 ;
+}
+footer{
+    background-color: #ded2c8;
+    height: 400px;
+}
+.ic{
+    float: left;
+    margin-left: 30px;
+    height: 30px;
+    width: 30px;
+}
+#txt2{
+    margin-left: 45%;
+
+}
+#ic1{
+    margin-left: 520px;
+}
+#p1{
+    margin-left: 1080px;
+    
+}
+#img{
+    margin-left: 450px;
+
+    margin-top: 40px;
+}
+#sec4{
+    width: 100%;
+    height: 500px;
+    background-image: url('https://img.freepik.com/free-vector/realistic-ice-skating-background_23-2150974029.jpg');
+    background-size:cover;
+    padding: 0px;
+    margin: 0px;
+ 
+}
+#head{
+    text-align: center;
+    color: #40679E;
+    font-size: 50px;
+    margin: 0px;
+}
+#d{
+    border: inset;
+    /*border-color: black;*/
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    margin-left: 30%;
+}
+.cont{
+    margin-left: 5%;
+    color:black ;
+    font-size: 20px;
+    font-style: oblique ;
+    font-weight: bold;
+    text-decoration: solid;
+    text-decoration-color: black;
+}
+#b4{
+    background-color: #637A9F;
+    color:white ;
+    border-color: black;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 43%;
+}
+.in{
+    border: solid;
+    border-color: black;
+    border-radius: 5%;
+    margin-left: 10%;
+   width: 200px;
+}
+#tv{
+    text-align: center;
+    color: #40679E;
+}
+#video{
+    margin-left: 27%;
+}
+#sec1{
+    width: 100%;
+    height: 500px;
+    border: solid;
+    background-color: #ded2c8;
+    
+}
+#list{
+    float: left;
+}
+#sec2{
+    width: 100%;
+    height: 500px;
+    border: solid;
+    background-color: #ded2c8;
+    
+}
+#sec3{
+    width: 100%;
+    height: 250px;
+    border: solid;
+    background-color: #ded2c8;
+    
+}
+#i{
+    height: 200px;
+    width: 200px;
+    margin-left: 20%;
+}
+#par{
+    font-family: "Roboto", sans-serif;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: black;
+    font-weight: normal;
+}
+#ab1{
+    font-family: "Roboto", sans-serif;
+    color: #40679E;
+    font-weight: bold;
+
+}
